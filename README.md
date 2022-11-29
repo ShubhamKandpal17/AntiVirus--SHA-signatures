@@ -8,6 +8,9 @@ After installing all the packages if the imports show any error .Create a virtua
 
 eicar.com file uploaded with the rest of the document is a malware which will help predict the functioning of the antivirus
 
+
+Attain the VirusTotalAPI key by logging in from its official website and paste it either in the settings file or through the ui as long as the change is commited
+
 # Gui
 ## Dark mode
 ![Dark_homeTab](https://user-images.githubusercontent.com/81589649/168495748-b82973e8-50f5-4212-bd7c-cb34ed940eed.png)
